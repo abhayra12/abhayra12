@@ -181,7 +181,7 @@ I'm a passionate **Data Engineer** and **AI/ML Engineer** specializing in buildi
 
 ### 🏆 Certifications & Achievements
 
-- 🎓 **B.Tech in Electronics & Telecommunication Engineering** - VNIT Nagpur
+- 🎓 **B.Tech in Electronics & Telecommunication Engineering** - PCCOE PUNE
 - 🏅 **GitHub Achievements:** Quickdraw, Pull Shark x2, YOLO
 - 📚 **Completed:** Data Engineering Zoomcamp, Gen-AI Course
 - 💡 **Active Contributor:** Open-source data engineering projects
