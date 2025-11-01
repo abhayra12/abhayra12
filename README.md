@@ -29,7 +29,7 @@ I'm a passionate **Data Engineer** and **AI/ML Engineer** specializing in buildi
 - 🌱 **Learning:** Advanced LLM fine-tuning, Real-time streaming architectures, and Cloud-native data solutions
 - 👯 **Collaboration:** Open to collaborating on open-source data engineering, AI/ML, and Gen-AI projects
 - 💬 **Ask me about:** Python, SQL, Apache Spark, Kafka, dbt, MLOps, LangChain, RAG systems, Cloud platforms
-- 🎓 **Education:** B.Tech in Electronics & Telecommunication Engineering from Visvesvaraya National Institute of Technology, Nagpur
+- 🎓 **Education:** B.Tech in Electronics & Telecommunication Engineering from PCCOE, Pune
 - 📫 **Reach me:** [![Linkedin Badge](https://img.shields.io/badge/-abhay_ahirkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/abhay-ahirkar) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:abhayahirkar2@gmail.com)
 
 ---
